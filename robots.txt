@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://number-base.chesten.workers.dev/sitemap.xml
